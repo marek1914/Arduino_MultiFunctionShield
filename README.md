@@ -15,14 +15,23 @@ Arduino R4 WiFi i Multi Function Shield - portujemy bibliotekę na R4, FspTimer
 https://www.elektroda.pl/rtvforum/topic3997354.html
 
 kod biblioteki Multi Function Shield by Florian
+
 jest dla ATmega328 
+
 Zmodyfikować trzeba wpis architectures:
+
 architectures=avr  na architectures=*
+
 użyty też został timer AVR
+
 Do Arduino R4 niezbędne są modyfikacje w plikach:
+
 library.properties
+
 src/MultiFunctionShield.cpp
+
 src/MultiFunctionShield.h
+
 
 
 
