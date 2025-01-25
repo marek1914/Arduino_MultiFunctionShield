@@ -11,7 +11,9 @@ https://www.blafusel.de/index.html
 
 
 na podstawie:
-Arduino R4 WiFi i Multi Function Shield - portujemy bibliotekę na R4, FspTimer 
+Arduino R4 WiFi i Multi Function Shield 
+- portujemy bibliotekę na R4, FspTimer 
+
 https://www.elektroda.pl/rtvforum/topic3997354.html
 
 kod biblioteki Multi Function Shield by Florian
